@@ -13,6 +13,5 @@ jobs:
         run: echo "Hola Mundo"
       - name : Bienvenido
         run : echo "Clase de git action"
-      - name : Bienveni
-        run : echo "Clase de git action2"
+    
 
